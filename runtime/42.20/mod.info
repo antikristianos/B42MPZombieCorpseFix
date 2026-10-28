@@ -1,0 +1,14 @@
+name=[B42] MP Vanilla Zombie Corpse Fix
+id=B42MPZombieCorpseFix
+author=Antikristianos
+description=Prevents multiplayer zombie corpses from losing clothing, carried items and loot. Preserves native death animations and complete corpse inventories. Requires ZombieBuddy on server and clients.
+icon=../common/icon.png
+require=\ZombieBuddy
+javaJarFile=media/java/B42MPZombieCorpseFix.jar
+javaPkgName=antikristianos.b42mpzombiecorpsefix
+ZBVersionMin=2.3.2
+modversion=1.3
+versionMin=42.20.0
+category=Multiplayer
+incompatible=B42MPZombieCorpseFix_WIP
+poster=../common/poster.png
