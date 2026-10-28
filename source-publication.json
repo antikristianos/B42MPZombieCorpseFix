@@ -1,0 +1,169 @@
+{
+  "SchemaVersion": 1,
+  "Project": "B42MPZombieCorpseFix",
+  "Repository": "antikristianos/B42MPZombieCorpseFix",
+  "Branch": "wip",
+  "Tag": "wip-1.63",
+  "ModVersion": "1.3.1",
+  "CollectionVersion": "1.63",
+  "WorkshopId": 3802764936,
+  "WorkshopUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=3802764936",
+  "UploadManifestSha256": "2DF2A9D193786BC163CE4EA9E9B6232EE0819F421B726E8CA65CB59859AB0AD7",
+  "Artifact": {
+    "Path": "mods/B42MPZombieCorpseFix_WIP/42.22/media/java/B42MPZombieCorpseFix.jar",
+    "Size": 40857,
+    "Sha256": "4D84DDF332760292F788F36E6FAD579D4F8498E09340616F9AB64A930E152063"
+  },
+  "Sources": [
+    {
+      "Path": ".gitignore",
+      "Size": 8,
+      "Sha256": "020C2606E8ED484089C2083E0BE438B9D0736BEE1558A6B76AF0D58BD23F69CF"
+    },
+    {
+      "Path": "MANIFEST.MF",
+      "Size": 141,
+      "Sha256": "504D26491F78FBD1888A33F1FE18FFE7E4B6F64811BC91978840B15D0F509543"
+    },
+    {
+      "Path": "README.md",
+      "Size": 1461,
+      "Sha256": "CC07D278CBBC7367F3C1B859EF27B8A89B5C82FFE196ABC7BF9EDA19F807AA23"
+    },
+    {
+      "Path": "build.json",
+      "Size": 6791,
+      "Sha256": "8655B8A254BD2923238AC9D7301F3409A072B912806ECE26DE6AE67549867AA4"
+    },
+    {
+      "Path": "build.ps1",
+      "Size": 2600,
+      "Sha256": "8389B7B0B5515387FA5D9B3989FED7C8629DA7762817C03AD266B69DE5B2B0FD"
+    },
+    {
+      "Path": "runtime/42.22/mod.info",
+      "Size": 552,
+      "Sha256": "1E5CB9A520B714B49575C8D15BF65E3B1EB883045D571455EEECD49A0C666486"
+    },
+    {
+      "Path": "src/antikristianos/b42mpzombiecorpsefix/ClientCorpsePresentation.java",
+      "Size": 7881,
+      "Sha256": "B641CF5D402F44B5902338AB47D9CED4AE6F6B0194DF4C4360BD66386380669B"
+    },
+    {
+      "Path": "src/antikristianos/b42mpzombiecorpsefix/CorpseAuthority.java",
+      "Size": 20310,
+      "Sha256": "3DE733E96F26C2368A6F9B0B67370C49F369E769955D30A64627268EA6742F1F"
+    },
+    {
+      "Path": "src/antikristianos/b42mpzombiecorpsefix/Main.java",
+      "Size": 257,
+      "Sha256": "FF8E9460F903A2549EDD5940907B7EE26CF5858D74F8C0E316D7CBE60139E1AF"
+    },
+    {
+      "Path": "src/antikristianos/b42mpzombiecorpsefix/OutfitReadiness.java",
+      "Size": 5951,
+      "Sha256": "99669E49B09DDCCAB328495798596746A63397A5922108E18B772BA24C250047"
+    },
+    {
+      "Path": "src/antikristianos/b42mpzombiecorpsefix/PatchAttachment.java",
+      "Size": 513,
+      "Sha256": "1A495C45BEA1FA74E1AB8BDEB80D71E892E27F8ED94041B6D12A38CAF424DC08"
+    },
+    {
+      "Path": "src/antikristianos/b42mpzombiecorpsefix/PatchClientDeath.java",
+      "Size": 392,
+      "Sha256": "50B14B33D2D1ED12CB86CB0BFE79EF4E6E2AD252B4443C9A1F964D2BE499B26F"
+    },
+    {
+      "Path": "src/antikristianos/b42mpzombiecorpsefix/PatchClientPlacement.java",
+      "Size": 514,
+      "Sha256": "93DEE2BECBF8C7F0C6619427E7DBCB9AA347669984F7882A6FBE39BC66022DA2"
+    },
+    {
+      "Path": "src/antikristianos/b42mpzombiecorpsefix/PatchClientVisuals.java",
+      "Size": 512,
+      "Sha256": "0BC25B308D81046B578842E32630CB4B0EDAA9491E266D687F45A1392C242963"
+    },
+    {
+      "Path": "src/antikristianos/b42mpzombiecorpsefix/PatchConnected.java",
+      "Size": 383,
+      "Sha256": "48D8B89BF0F0EC9EAD3E31E67E50EF720F4DCFB8700050BEC55A570151808DE9"
+    },
+    {
+      "Path": "src/antikristianos/b42mpzombiecorpsefix/PatchCorpse.java",
+      "Size": 780,
+      "Sha256": "BE882CD1C1EFA4503143E1B28EC3503FF1E214479D2D9ACF2B77085266487C23"
+    },
+    {
+      "Path": "src/antikristianos/b42mpzombiecorpsefix/PatchDeath.java",
+      "Size": 398,
+      "Sha256": "B9AE05BF91C45118DC0F8C42EAC31B84E2499EB85B8EFFCF89DB1A4C332B746F"
+    },
+    {
+      "Path": "src/antikristianos/b42mpzombiecorpsefix/PatchDeathMessage.java",
+      "Size": 409,
+      "Sha256": "510EC547487D73D3FAF6D5F7656FB46C05CB121EF7480F7AE8EC3AB90AB6A457"
+    },
+    {
+      "Path": "src/antikristianos/b42mpzombiecorpsefix/PatchDestroyed.java",
+      "Size": 370,
+      "Sha256": "FE2F231DA5107B17A5FF04EB73919775EBD7564644B512D1FE4012AB21CB473E"
+    },
+    {
+      "Path": "src/antikristianos/b42mpzombiecorpsefix/PatchDie.java",
+      "Size": 390,
+      "Sha256": "9C0D62416007BE265403AE2C2587D6523AB9FFB80B71BC66B258E2E3C1349B32"
+    },
+    {
+      "Path": "src/antikristianos/b42mpzombiecorpsefix/PatchHit.java",
+      "Size": 549,
+      "Sha256": "EA0D155FA934EA9AD35513A384D35148858AA13DADBF3DAC9CA57C9A0CBDF3D9"
+    },
+    {
+      "Path": "src/antikristianos/b42mpzombiecorpsefix/PatchInventory.java",
+      "Size": 508,
+      "Sha256": "B31191FC7F3549E31E452C32C1B445B6B14A7CE0BA7F4BB6A91EACAE464883FB"
+    },
+    {
+      "Path": "src/antikristianos/b42mpzombiecorpsefix/PatchKilled.java",
+      "Size": 601,
+      "Sha256": "C31326E863D3B49837B3CF6DD5F735E15292AD5EC13047E28F2EEFF6A4346797"
+    },
+    {
+      "Path": "src/antikristianos/b42mpzombiecorpsefix/PatchLivingPacket.java",
+      "Size": 376,
+      "Sha256": "1032E6CD75436FBD2D2BC110F604103D36E03EF42B26F98CC1ADF869604159A9"
+    },
+    {
+      "Path": "src/antikristianos/b42mpzombiecorpsefix/PatchLoad.java",
+      "Size": 474,
+      "Sha256": "888C166CDB2F1527F1F0CFEE0CE78702616F65B1128BEBF9BFE1A2B08493A961"
+    },
+    {
+      "Path": "src/antikristianos/b42mpzombiecorpsefix/PatchLootRequest.java",
+      "Size": 591,
+      "Sha256": "2D50C733994CBCDA5912A5174D3961E4D35518A2A02462A81053BCE6CF28E1BF"
+    },
+    {
+      "Path": "src/antikristianos/b42mpzombiecorpsefix/PatchNamedOutfit.java",
+      "Size": 573,
+      "Sha256": "46D6FD3BBC1C2B616289465F58A9A88D7B6EE6078C825CCB95B375C318190E92"
+    },
+    {
+      "Path": "src/antikristianos/b42mpzombiecorpsefix/PatchReset.java",
+      "Size": 376,
+      "Sha256": "FF953552C8E295A8F276B2C1AC1A426EAE1E4D2CAF96ABF82B9B6D12AB43F86B"
+    },
+    {
+      "Path": "src/antikristianos/b42mpzombiecorpsefix/PatchSave.java",
+      "Size": 445,
+      "Sha256": "496B7E6EFCAE396F37D4AC20BD6580E806772095115C2E2BBF5F397759CC8BFB"
+    },
+    {
+      "Path": "src/antikristianos/b42mpzombiecorpsefix/PatchServerUpdate.java",
+      "Size": 311,
+      "Sha256": "8D0D0AC5C7D2C140213727E99FC96573F1D1F38EAAE6D46FB2E4434DF496F86F"
+    }
+  ]
+}
