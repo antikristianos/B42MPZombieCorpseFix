@@ -30,13 +30,13 @@
     },
     {
       "Path": "antikristianos/b42mpzombiecorpsefix/CorpseAuthority.class",
-      "Size": 20831,
-      "Sha256": "A6B2C9577EA6FD5649F62EDE66F8B6AA23586A74FDB97D2024CF582C8805A4E1"
+      "Size": 21074,
+      "Sha256": "DF6F3FF6B780B113AABE58AC0730B770C5D1FDF13900F8F410CAB4E429E602C9"
     },
     {
       "Path": "antikristianos/b42mpzombiecorpsefix/Main.class",
       "Size": 515,
-      "Sha256": "62DAAC0AEA553E089A1853F9BC58F830B9CB0B40D112E485BBB4B26F3DCD4009"
+      "Sha256": "4FCD876FAE3D52D9FDB32366725F929902C1AD9807C286F6B7FACCEC25AFF36C"
     },
     {
       "Path": "antikristianos/b42mpzombiecorpsefix/OutfitReadiness$Frame.class",
@@ -144,6 +144,11 @@
       "Sha256": "65B5BDDD2329443EF664A58E3601EAFC5550710FAEB9511BC6A016D170E6F345"
     },
     {
+      "Path": "antikristianos/b42mpzombiecorpsefix/PatchLootSelector.class",
+      "Size": 972,
+      "Sha256": "6CC235AE37AF1384F0CE5607ECB1503AC611CFE6A2D70F01075EB206DA3F9B4E"
+    },
+    {
       "Path": "antikristianos/b42mpzombiecorpsefix/PatchNamedOutfit.class",
       "Size": 1350,
       "Sha256": "06F92D237DFFA51C0C21A20791D41154EF2BE7061B1AF84CE4D78B7D6EA24B59"
@@ -172,8 +177,8 @@
     },
     {
       "Path": "ZombieBuddy.jar",
-      "Size": 12491692,
-      "Sha256": "79120880FDA051718082BD9BF0C2C2B639450AE73641FDB4631750221A57B208"
+      "Size": 12491689,
+      "Sha256": "F2490E1B72F12CFAE7EB7ADC3DCEA08F20F12AD8DDA4FB8C824631408DE3C180"
     }
   ]
 }
