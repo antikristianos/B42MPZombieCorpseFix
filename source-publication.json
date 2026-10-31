@@ -3,16 +3,16 @@
   "Project": "B42MPZombieCorpseFix",
   "Repository": "antikristianos/B42MPZombieCorpseFix",
   "Branch": "wip",
-  "Tag": "wip-1.73",
-  "ModVersion": "1.3.2",
-  "CollectionVersion": "1.73",
+  "Tag": "wip-1.74",
+  "ModVersion": "1.4",
+  "CollectionVersion": "1.74",
   "WorkshopId": 3802764936,
   "WorkshopUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=3802764936",
-  "UploadManifestSha256": "2ABF9D7AF3EF37A06138798DA34248FB098D85FDFBDB9DAA6B4D0E1EDC4D139D",
+  "UploadManifestSha256": "6635C9922F3B93194AD831FAE10CB92BFD22908005B4DCD304C78185535870CF",
   "Artifact": {
     "Path": "mods/B42MPZombieCorpseFix_WIP/42.22/media/java/B42MPZombieCorpseFix.jar",
-    "Size": 41711,
-    "Sha256": "6E6681DE5240EC9872D7960397D1904175D8D992CFBF4BA942B1E031C61BF3A9"
+    "Size": 41708,
+    "Sha256": "58C11F6BFF3C82BA9BD8FFAF5EE330F3C1A3EA8D2C20659A6C0A01D8437235BD"
   },
   "Sources": [
     {
@@ -22,18 +22,18 @@
     },
     {
       "Path": "MANIFEST.MF",
-      "Size": 141,
-      "Sha256": "BCD35C772AED76278BC3438952DAF7C370B16400DEEA134EF33EA55A32976034"
+      "Size": 139,
+      "Sha256": "49D616230009D1F4015A4946FE565CE99D3D6E0AEA7CA5FDC06764EEE058D31E"
     },
     {
       "Path": "README.md",
-      "Size": 1461,
-      "Sha256": "ADB4491818AB7421BFE7359BC408D61C78ADDB9321291CC3D6F30E6F8A0BF2B4"
+      "Size": 1459,
+      "Sha256": "149F99AC203C668D82EE9C2484426ED7E73323A784BA3A6E08EA719899A56B34"
     },
     {
       "Path": "build.json",
       "Size": 6988,
-      "Sha256": "5755BB8EFB3EB5DE3697D4213CB14301A95DEBD7FC32E435091652E40EC0CC7E"
+      "Sha256": "E8951A80C05DAE8AD7CA0BE1E3EFE74545F5C3E202E16E2959AA271C7E175E26"
     },
     {
       "Path": "build.ps1",
@@ -42,8 +42,8 @@
     },
     {
       "Path": "runtime/42.22/mod.info",
-      "Size": 552,
-      "Sha256": "22018C920C7A026400436A37E1DE94B22DB8E466F41235AA5628679062986217"
+      "Size": 550,
+      "Sha256": "AEE22416FCD2DD307E57D86105A6BB78BE70F051C95240A9B87E7B680B33147B"
     },
     {
       "Path": "src/antikristianos/b42mpzombiecorpsefix/ClientCorpsePresentation.java",
@@ -57,8 +57,8 @@
     },
     {
       "Path": "src/antikristianos/b42mpzombiecorpsefix/Main.java",
-      "Size": 257,
-      "Sha256": "26F99665E0193ADC07E2D34A66BB2B39B05E1CC30C37E12787BAD2A219642200"
+      "Size": 255,
+      "Sha256": "FB25E62588F9D22CDEE06F8416BD87BBE4D6767B301431CFEAD5750367976AF5"
     },
     {
       "Path": "src/antikristianos/b42mpzombiecorpsefix/OutfitReadiness.java",
