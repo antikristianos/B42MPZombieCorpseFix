@@ -56,6 +56,13 @@ public final class CorpseAuthority {
         catch (IllegalAccessException e) { throw new IllegalStateException(e); }
     }
     public static boolean server() { return GameServer.server && !GameClient.client; }
+    public static void registerCorpseLootSelector(String containerType) {
+        if (server() && ("inventoryfemale".equals(containerType) || "inventorymale".equals(containerType))) {
+            // Despite its name, the installed registerZone delegates to the same
+            // native string registry used by Container selectors. No invented IDs.
+            zombie.inventory.ItemConfigurator.registerZone(containerType);
+        }
+    }
     static ItemVisuals rawVisuals(IsoZombie zombie) { return (ItemVisuals)read(VISUALS, zombie); }
     public static boolean eligible(IsoGameCharacter character) {
         return server() && character instanceof IsoZombie z && !z.isReanimatedPlayer() && !z.wasFakeDead();
