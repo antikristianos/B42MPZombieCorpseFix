@@ -3,12 +3,12 @@
   "Project": "B42MPZombieCorpseFix",
   "Repository": "antikristianos/B42MPZombieCorpseFix",
   "Branch": "wip",
-  "Tag": "wip-1.80",
+  "Tag": "wip-1.81",
   "ModVersion": "1.4",
-  "CollectionVersion": "1.80",
+  "CollectionVersion": "1.81",
   "WorkshopId": 3802764936,
   "WorkshopUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=3802764936",
-  "UploadManifestSha256": "C40AF9B59B6D599DBF4132FD357BA4C7187FF9922DADECF261FA4A433C859349",
+  "UploadManifestSha256": "7737F5DA54B12FFEB0391A45B0792D1920123C2905FBB6D421BE5D88F9E7CCA3",
   "Artifact": {
     "Path": "mods/B42MPZombieCorpseFix_WIP/42.22/media/java/B42MPZombieCorpseFix.jar",
     "Size": 41708,
@@ -33,7 +33,7 @@
     {
       "Path": "build.json",
       "Size": 6988,
-      "Sha256": "E8951A80C05DAE8AD7CA0BE1E3EFE74545F5C3E202E16E2959AA271C7E175E26"
+      "Sha256": "E91F0A89DFC15BD70AF6149F3D48EB145D402E7C291537A626D9EEA78EC06534"
     },
     {
       "Path": "build.ps1",
